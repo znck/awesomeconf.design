@@ -69,7 +69,8 @@ h1, h2 {
 }
 
 .subtitle {
-  font-size: calc(10px + 3.75vw);
+  font-size: 3.75vw;
+  margin-top: 0;
 }
 
 .footnote {
